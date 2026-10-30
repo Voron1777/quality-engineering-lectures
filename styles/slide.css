@@ -32,6 +32,10 @@
         margin-left: 20px;
     }
 
+    > *:last-child {
+        margin-bottom: 0;
+    }
+
     .mark {
         background-color: var(--color-yellow);
     }

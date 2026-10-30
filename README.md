@@ -10,6 +10,7 @@
 |---|------|------|
 | 1 | Роль, типи та архітектура програмної документації: аудиторії та антипатерни, продукт vs процес, ЄСПД, архітектурні документи SSD / SDD / ISD, ADR, простежуваність (RTM), handover | [lecture-01.html](lecture-01.html) |
 | 2 | Сучасні підходи, інструменти та автоматизація документування ПЗ: Documentation as Code, Markdown/YAML, Git-рев'ю, архітектура документації, SSOT, ADR, MkDocs/Docusaurus, OpenAPI/Swagger, Storybook, Pages, версіонування, Definition of Done | [lecture-02.html](lecture-02.html) |
+| 3 | Документування супроводу та експлуатації програмних систем: експлуатаційний пакет та runbook-и, DR-плани RTO/RPO, Change Management, Impact Analysis, CCB, інциденти, blameless Post-Mortem, RCA/CAPA, SLA/SLO/SLI, матриці ескалації, Reverse Engineering, технічний борг, план супроводу | [lecture-03.html](lecture-03.html) |
 
 ## Запуск
 
@@ -37,6 +38,7 @@ npm run serve
 ├── index.html               Зміст — список лекцій
 ├── lecture-01.html          Лекція 1
 ├── lecture-02.html          Лекція 2
+├── lecture-03.html          Лекція 3
 ├── lecture-template.html    Шаблон нової лекції
 ├── pictures/                Ілюстрації
 ├── styles/

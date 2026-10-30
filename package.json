@@ -4,7 +4,8 @@
         "pictures/**",
         "index.html",
         "lecture-01.html",
-        "lecture-02.html"
+        "lecture-02.html",
+        "lecture-03.html"
     ],
     "scripts": {
         "serve": "node_modules/.bin/shower serve",
